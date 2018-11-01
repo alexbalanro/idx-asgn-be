@@ -5,4 +5,4 @@ with other REST services with its RestTemplate class that's also easily mockable
 
 I've chosen Angular 7 as the framework for frond end as it's one that I've had experience with ( Worked with AngularJS )
 It now provides easier scaffolding for the project and more intuitive separation of concerns through components/services
-and it's also based on TypeScript which closely resembles the Java language.
+Tt's also based on TypeScript which closely resembles the Java language.

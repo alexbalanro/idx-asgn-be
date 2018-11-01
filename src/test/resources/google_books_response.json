@@ -1,0 +1,840 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 402,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "v2CrBj-MSg4C",
+      "etag": "JzPxSa3bIWo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v2CrBj-MSg4C",
+      "volumeInfo": {
+        "title": "Something Borrowed",
+        "subtitle": "A Novel",
+        "authors": [
+          "Emily Giffin"
+        ],
+        "publisher": "St. Martin's Press",
+        "publishedDate": "2010-04-01",
+        "description": "Something Borrowed Emily Giffin The smash-hit debut novel for every woman who has ever had a complicated love-hate friendship. Rachel White is the consummate good girl. A hard-working attorney at a large Manhattan law firm and a diligent maid of honor to her charmed best friend Darcy, Rachel has always played by all the rules. Since grade school, she has watched Darcy shine, quietly accepting the sidekick role in their lopsided friendship. But that suddenly changes the night of her thirtieth birthday when Rachel finally confesses her feelings to Darcy's fiance, and is both horrified and thrilled to discover that he feels the same way. As the wedding date draws near, events spiral out of control, and Rachel knows she must make a choice between her heart and conscience. In so doing, she discovers that the lines between right and wrong can be blurry, endings aren't always neat, and sometimes you have to risk everything to be true to yourself.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1429904607"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781429904605"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 3005,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.11.11.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v2CrBj-MSg4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v2CrBj-MSg4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ro/books?id=v2CrBj-MSg4C&pg=PT31&dq=something&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=v2CrBj-MSg4C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-v2CrBj-MSg4C"
+      },
+      "saleInfo": {
+        "country": "RO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.8,
+          "currencyCode": "RON"
+        },
+        "retailPrice": {
+          "amount": 21.62,
+          "currencyCode": "RON"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=v2CrBj-MSg4C&rdid=book-v2CrBj-MSg4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31800000,
+              "currencyCode": "RON"
+            },
+            "retailPrice": {
+              "amountInMicros": 21620000,
+              "currencyCode": "RON"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/Something_Borrowed-sample-epub.acsm?id=v2CrBj-MSg4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v2CrBj-MSg4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qjSSrnC2InwC",
+      "etag": "6gXn2agSr0s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qjSSrnC2InwC",
+      "volumeInfo": {
+        "title": "On Something",
+        "authors": [
+          "Hilaire Belloc"
+        ],
+        "publisher": "Library of Alexandria",
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465529275"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465529276"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 271,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qjSSrnC2InwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qjSSrnC2InwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ro/books?id=qjSSrnC2InwC&printsec=frontcover&dq=something&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qjSSrnC2InwC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-qjSSrnC2InwC"
+      },
+      "saleInfo": {
+        "country": "RO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.48,
+          "currencyCode": "RON"
+        },
+        "retailPrice": {
+          "amount": 14.61,
+          "currencyCode": "RON"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qjSSrnC2InwC&rdid=book-qjSSrnC2InwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19480000,
+              "currencyCode": "RON"
+            },
+            "retailPrice": {
+              "amountInMicros": 14610000,
+              "currencyCode": "RON"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/On_Something-sample-epub.acsm?id=qjSSrnC2InwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qjSSrnC2InwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jfj4EV5j3JEC",
+      "etag": "zpqi/+ADWdI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jfj4EV5j3JEC",
+      "volumeInfo": {
+        "title": "The Something",
+        "authors": [
+          "Natalie Babbitt"
+        ],
+        "publisher": "Farrar, Straus and Giroux (BYR)",
+        "publishedDate": "2011-04-01",
+        "description": "Mylo...is afraid of an indefinable Something coming in through his window at night. Given some modeling clay by his concerned mother, he finally succeeds in making a statue of the Something...The clever, ironic story interprets common childhood fears of the dark in a way that should prove highly amusing to many small children.\"--Starred/Booklist",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781429955188"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "142995518X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jfj4EV5j3JEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jfj4EV5j3JEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ro/books?id=jfj4EV5j3JEC&printsec=frontcover&dq=something&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jfj4EV5j3JEC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-jfj4EV5j3JEC"
+      },
+      "saleInfo": {
+        "country": "RO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.8,
+          "currencyCode": "RON"
+        },
+        "retailPrice": {
+          "amount": 21.62,
+          "currencyCode": "RON"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jfj4EV5j3JEC&rdid=book-jfj4EV5j3JEC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31800000,
+              "currencyCode": "RON"
+            },
+            "retailPrice": {
+              "amountInMicros": 21620000,
+              "currencyCode": "RON"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/The_Something-sample-epub.acsm?id=jfj4EV5j3JEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jfj4EV5j3JEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The clever, ironic story interprets common childhood fears of the dark in a way that should prove highly amusing to many small children.&quot;--Starred/Booklist"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yRepBQAAQBAJ",
+      "etag": "0lnW78sO2VA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yRepBQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Something",
+        "authors": [
+          "Rebecca Cobb"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2014-12-04",
+        "description": "When a little boy's ball disappears down a mysterious hole in the garden, he can't stop thinking about what could be down there - a little mouse's house? The lair of a hungry troll? Or maybe even a dragon's den. Whatever it may be, he's determined to find out! The Something is a glorious, imaginative adventure from Rebecca Cobb, the award-winning creator of Aunt Amelia and Lunchtime, and the illustrator of The Paper Dolls, written by Julia Donaldson.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781447292982"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1447292987"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yRepBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yRepBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ro/books?id=yRepBQAAQBAJ&printsec=frontcover&dq=something&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yRepBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-yRepBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 35.53,
+          "currencyCode": "RON"
+        },
+        "retailPrice": {
+          "amount": 24.16,
+          "currencyCode": "RON"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yRepBQAAQBAJ&rdid=book-yRepBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 35530000,
+              "currencyCode": "RON"
+            },
+            "retailPrice": {
+              "amountInMicros": 24160000,
+              "currencyCode": "RON"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/The_Something-sample-epub.acsm?id=yRepBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/The_Something-sample-pdf.acsm?id=yRepBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yRepBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Something is a glorious, imaginative adventure from Rebecca Cobb, the award-winning creator of Aunt Amelia and Lunchtime, and the illustrator of The Paper Dolls, written by Julia Donaldson."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3ydnhB7waIEC",
+      "etag": "KOZ92ZtYDRY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3ydnhB7waIEC",
+      "volumeInfo": {
+        "title": "Something Blue",
+        "subtitle": "A Novel",
+        "authors": [
+          "Emily Giffin"
+        ],
+        "publisher": "St. Martin's Press",
+        "publishedDate": "2010-04-01",
+        "description": "From the New York Times bestselling author of Something Borrowed comes a novel that shows how someone with a ‘perfect life' can lose it all—and then find everything. Darcy Rhone thought she had it all figured out: the more beautiful the girl, the more charmed her life. Never mind substance. Never mind playing by the rules. Never mind karma. But Darcy's neat, perfect world turns upside down when her best friend, Rachel, the plain-Jane \"good girl,\" steals her fiancé, while Darcy finds herself completely alone for the first time in her life...with a baby on the way. Darcy tries to recover, fleeing to her childhood friend living in London and resorting to her tried-and-true methods for getting what she wants. But as she attempts to recreate her glamorous life on a new continent, Darcy finds that her rules no longer apply. It is only then that Darcy can begin her journey toward self-awareness, forgiveness, and motherhood. Something Blue is a novel about one woman's surprising discoveries about the true meaning of friendship, love, and happily-ever-after. It's a novel for anyone who has ever, even secretly, wondered if the last thing you want is really the one thing you need.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781429904629"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1429904623"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3756,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.6.5.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3ydnhB7waIEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3ydnhB7waIEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ro/books?id=3ydnhB7waIEC&pg=PT31&dq=something&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3ydnhB7waIEC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-3ydnhB7waIEC"
+      },
+      "saleInfo": {
+        "country": "RO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.8,
+          "currencyCode": "RON"
+        },
+        "retailPrice": {
+          "amount": 21.62,
+          "currencyCode": "RON"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3ydnhB7waIEC&rdid=book-3ydnhB7waIEC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31800000,
+              "currencyCode": "RON"
+            },
+            "retailPrice": {
+              "amountInMicros": 21620000,
+              "currencyCode": "RON"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/Something_Blue-sample-epub.acsm?id=3ydnhB7waIEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3ydnhB7waIEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Something</b> in lime green, perhaps?” Marcus shrugged. “Sure. Sounds good.” He <br>\nwas staring at <b>something</b> behind me. “Um, Darcy...Rachel and Dex are here,” he <br>\nsaid in a tone that made me know it was not a joke. “What?” I froze, and my heart<br>\n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5twLcwVeO5MC",
+      "etag": "jbmtVJuHIto",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5twLcwVeO5MC",
+      "volumeInfo": {
+        "title": "Something About the Blues",
+        "publisher": "Sourcebooks, Inc.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781402249389"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1402249381"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.2.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5twLcwVeO5MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5twLcwVeO5MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ro/books?id=5twLcwVeO5MC&printsec=frontcover&dq=something&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ro/books?id=5twLcwVeO5MC&dq=something&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Something_About_the_Blues.html?hl=&id=5twLcwVeO5MC"
+      },
+      "saleInfo": {
+        "country": "RO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/Something_About_the_Blues-sample-epub.acsm?id=5twLcwVeO5MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/Something_About_the_Blues-sample-pdf.acsm?id=5twLcwVeO5MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5twLcwVeO5MC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bdh-c7ZqNqMC",
+      "etag": "bD6J8FoHyGY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bdh-c7ZqNqMC",
+      "volumeInfo": {
+        "title": "Something More",
+        "authors": [
+          "Morris E. Ruddick"
+        ],
+        "publisher": "Xulon Press",
+        "publishedDate": "2010-09",
+        "description": "For those chosen, the Joseph-Daniel calling requires \"something more.\" The \"something more\" marks true Kingdom leadership with a maturity that endures. It demands a cost far beyond spoon feeding, or the good intentions, ambitions, or any other notion of man. While the more easily digestible milk mode referred to in Hebrews comes primarily from absorbing information, the meat or proactive mode to maturity takes time, dedication and a first-priority commitment. It is the dividing asunder between the many who are called and the few who are chosen. This book outlines a pathway to steward your calling. It is not designed for those focused on their comforts, the lusts of the flesh or the love of the world. If taken seriously and acted on; it will release the meat of maturity leading to \"something more\" than might ever come from the best of human efforts. The author was recently described by a long-time associate with these words: \"Morris Ruddick heads several organizations and corporate entities, including Global Initiatives Foundation, The Ruddick Int'l Group, and a global intercession network. He has led development of entrepreneurial activities in critical needy areas and brought together business and ministry in several nations, including the Messianic Jewish community in Israel, as well as in Africa, Asia, Afghanistan, Belarus, Russia and other areas of need.\" Mr. Ruddick's Kingdom agendas reflect a unique merging of the secular and the spiritual. He sums it up as \"an interlinking of secular business enterprises with overriding Kingdom objectives.\" Since 1995, Mr. Ruddick has been a voice encouraging and mobilizing Kingdom business leaders and entrepreneurs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781612150826"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1612150829"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bdh-c7ZqNqMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bdh-c7ZqNqMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ro/books?id=bdh-c7ZqNqMC&printsec=frontcover&dq=something&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ro/books?id=bdh-c7ZqNqMC&dq=something&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Something_More.html?hl=&id=bdh-c7ZqNqMC"
+      },
+      "saleInfo": {
+        "country": "RO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/Something_More-sample-epub.acsm?id=bdh-c7ZqNqMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bdh-c7ZqNqMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is the dividing asunder between the many who are called and the few who are chosen. This book outlines a pathway to steward your calling."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HYyubHBrVUcC",
+      "etag": "lknULXFOMlw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HYyubHBrVUcC",
+      "volumeInfo": {
+        "title": "There's Something about Mary",
+        "subtitle": "Essays on Phenomenal Consciousness and Frank Jackson's Knowledge Argument",
+        "authors": [
+          "Peter Ludlow",
+          "Yujin Nagasawa",
+          "Daniel Stoljar"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2004",
+        "description": "Key papers on one of the most important and provocative thought experiments in philosophy of mind.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0262621894"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262621892"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 463,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.0.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HYyubHBrVUcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HYyubHBrVUcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ro/books?id=HYyubHBrVUcC&pg=PA69&dq=something&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ro/books?id=HYyubHBrVUcC&dq=something&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/There_s_Something_about_Mary.html?hl=&id=HYyubHBrVUcC"
+      },
+      "saleInfo": {
+        "country": "RO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HYyubHBrVUcC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If she is finally allowed to perceive colours she will discover <b>something</b> she <br>\npreviously did not know, namely what color and seeing color are like. As she <br>\npreviously knew everything physical and relevant, the new knowledge must <br>\nrelate to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X-xbqAn_GzIC",
+      "etag": "j33IoTDsmfg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X-xbqAn_GzIC",
+      "volumeInfo": {
+        "title": "Standing for Something",
+        "subtitle": "10 Neglected Virtues That Will Heal Our Hearts and Homes",
+        "authors": [
+          "Gordon B. Hinckley"
+        ],
+        "publisher": "Harmony",
+        "publishedDate": "2009-02-19",
+        "description": "In this national bestseller, the president of The Church of Jesus Christ of Latter-day Saints, Gordon B. Hinckley, has created a classic look at the values that can change our world--and how to stand up for them. Drawing on anecdotes from his much-admired life of faith and service, as well as examples from American culture today, he examines ten virtues that have always illuminated the path to a better world: love, honesty, morality, civility, learning, forgiveness and mercy, thrift and industry, gratitude, optimism, and faith. He then shows how the two guardians of virtue--marriage and the family--can keep us on that path, even in difficult times. Standing for Something is an inspiring blueprint for what we all can do--as individuals, as a nation, and as a world community--to rediscover the values and virtues that have historically made us strong and that will lead us to a brighter future. From the Trade Paperback edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307559968"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307559963"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.0.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X-xbqAn_GzIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X-xbqAn_GzIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ro/books?id=X-xbqAn_GzIC&printsec=frontcover&dq=something&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=X-xbqAn_GzIC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-X-xbqAn_GzIC"
+      },
+      "saleInfo": {
+        "country": "RO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 62.82,
+          "currencyCode": "RON"
+        },
+        "retailPrice": {
+          "amount": 42.72,
+          "currencyCode": "RON"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=X-xbqAn_GzIC&rdid=book-X-xbqAn_GzIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 62820000,
+              "currencyCode": "RON"
+            },
+            "retailPrice": {
+              "amountInMicros": 42720000,
+              "currencyCode": "RON"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/Standing_for_Something-sample-epub.acsm?id=X-xbqAn_GzIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/Standing_for_Something-sample-pdf.acsm?id=X-xbqAn_GzIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X-xbqAn_GzIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the Trade Paperback edition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mxU_0D8gsnEC",
+      "etag": "tClZW6UXXKQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mxU_0D8gsnEC",
+      "volumeInfo": {
+        "title": "Something about Kierkegaard",
+        "authors": [
+          "David F. Swenson"
+        ],
+        "publisher": "Mercer University Press",
+        "publishedDate": "2000-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0865548609"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780865548602"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mxU_0D8gsnEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mxU_0D8gsnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ro/books?id=mxU_0D8gsnEC&printsec=frontcover&dq=something&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ro/books?id=mxU_0D8gsnEC&dq=something&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Something_about_Kierkegaard.html?hl=&id=mxU_0D8gsnEC"
+      },
+      "saleInfo": {
+        "country": "RO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/Something_about_Kierkegaard-sample-epub.acsm?id=mxU_0D8gsnEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ro/books/download/Something_about_Kierkegaard-sample-pdf.acsm?id=mxU_0D8gsnEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mxU_0D8gsnEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
